@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
+
+
+.Profil {
+  
+    color: white;
+    display: grid;  
+}
+.Onas {
+  
+    color: white;
+    display: grid;
+}
+.setting {
+ 
+    color: white;
+    display: grid;
+}
+.chtoto {
+   
+    color: white;
+    display: grid;
+   
+
+}
+.logo {
+    color: white;
+    display: swap;
+    position: fixed;
+    float: left;
+    font-size: 30px;
+    font-family:"Rubik Vanil";
+    margin-left: 20px;
+
+}
+
+.header {
+    display: grid;
+    grid-template-columns: 110px 100px 120px 100px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px 200px;
+    position: fixed; /* Фиксированное положение */
+    top: 0; /* Прикрепить к верхней части экрана */
+    width: 100%; /* Занимает всю ширину */
+    z-index: 1000;
+    font-size: 20px;
+}
+.chill {
+    font-size: 300px;
+    display: grid;
+    position: relative;
+    float: right;
+    right: 300px;
+    color: white;
+
+}
+.Pashalka {
+    color: rgb(20, 19, 19);
+    display: grid;
+    position: relative;
+    float: right;
+    top: 100%;
+}
+.ticket {
+  display: grid;
+  position: relative;
+  top: 200px;
+  left: 200px;
+}
+.nazad {
+    display: inline; 
+    position: relative;
+    left: 600px;
+    float: right;
+   color: white;
+}
+.header2 {
+    background-color: black;
+
+}
+.header_logo {
+    color: white;
+}
+.header_text {
+    color: white;
+}
+.header_image {
+    color: white;
+    position: relative;
+   bottom: 200px; 
+   background-repeat: repeat-x;
+   overflow:hidden;
+}
+.header2 {
+    display: grid;
+    
+}
+.logo {
+    position: relative;
+    left: 1375px;
+    bottom: 40px;
+    
+   
+}
+.ZAgalovok {
+    display: flex;
+    position: relative;
+    bottom: 300px;
+}
+.bottom_logo {
+    color: white;
+    display: grid;
+    position: relative;
+    left: 1400px;
+    bottom: 80px;
+    
+}
+.zakaz {
+   display: flex;
+    position: relative;
+    top: 180px;
+    left: 830px;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    transition: background-color 0.3s;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: 20px 20px;
+}
+.centre {
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    display: grid;
+    padding: 15px;
+   
+   
+    
+}
+.centre_info {
+    color: white;
+    overflow-wrap: break-word;
+    width: 1900px;
+}
+.centre_begin {
+    color: white;
+    overflow-wrap: break-word;
+    width: 1900px;
+}
+.centre_mars {
+    color: white;
+    overflow-wrap: break-word;
+    width: 1890px;
+}
+.centre_titan {
+    color: white;
+    overflow-wrap: break-word;
+    width: 600px;
+    bottom: 1000px;
+
+}
+.begin_image {
+    display: flex;
+    position: relative;
+    left: 1000px;
+    bottom: 600px;
+}
+.begin_image2 {
+    display: flex;
+    position: relative;
+    left: 1300px;
+    bottom: 1100px;
+}
+.begin_image3 {
+    display: flex;
+    position: relative;
+    left: 1400px;
+    bottom: 1000px;
+}
+.centre_mars {
+    display: flex;
+    width: 555px;
+    position: relative;
+    bottom: 100px;
+    left: 800px;
+}
+.centre_titan {
+    display: grid;
+    position: relative;
+    bottom: 500px;
+}
+.mars_image {
+    display: flex;
+    position: relative;
+    bottom: 1370px;
+    
+}
+.Titsn_img {
+    display: grid;
+    position: relative;
+    float: right;
+    bottom: 1500px;
+    right: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
